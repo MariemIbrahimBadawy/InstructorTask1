@@ -1,0 +1,44 @@
+.form{
+    width:40%;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+form{
+    width:70%;
+    margin: auto;
+    color:white;
+}
+.form h3{
+    color:var(--orange);
+    background-color: white;
+    border-radius: 10px;
+    padding:11px 10px;
+}
+form input{
+    margin-bottom: 30px;
+    width: 95%;
+    color:white;
+    border-radius: 5px;
+    border: navajowhite;
+    outline: none;
+    background: transparent;
+    border-bottom: 1px solid var(--orange);
+
+}
+.sigin{
+    color:var(--orange);
+    cursor: pointer;
+}
+.login{
+    padding: 15px 80px
+}
+.font-awsam svg{
+    padding-right: 15px;
+    color:var(--orange);
+    cursor: pointer;
+}
+.font-awsam svg:hover{
+    color:white
+}

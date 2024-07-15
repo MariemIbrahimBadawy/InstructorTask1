@@ -1,0 +1,11 @@
+
+header{
+    width:50%;
+}
+
+h1 , p{
+    color:white
+}
+h1 span{
+    color:var(--orange)
+}
